@@ -1,0 +1,11 @@
+#main-container{
+    margin: 100px;
+}
+
+h2{
+    color: #dc3545;
+}
+
+.form-field{
+    width: 50%;
+}
